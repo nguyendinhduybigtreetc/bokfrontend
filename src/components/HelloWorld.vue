@@ -65,7 +65,7 @@ const value1 = ref(true);
     ></el-date-picker>
   </div>
 
-  <p>For example, we can custom primary color to 'green'.</p>
+  <p>{{ $t('des1') }}</p>
 
   <p>
     Edit

@@ -1,0 +1,13 @@
+{
+  "shortname": "EN",
+  "textlogo": "BOK LLC",
+  "orders": "Orders",
+  "info": "Info",
+  "workspace": "Workspace",
+  "cart": "Cart",
+  "welcome": "Hello Vue 3",
+  "des1": "For example, we can custom primary color to 'green'.",
+  "english": "English",
+  "vietnamese": "Vietnamese",
+  "chinese": "Chinese"
+}
